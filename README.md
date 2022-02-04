@@ -2,7 +2,7 @@
 Ви можете побачити схему роботи програми на зображенні Зобр.1
 
 ![](https://raw.githubusercontent.com/ppc-ntu-khpi/java-methods-batl64/master/Diagram.png)
-Зобр.1
+                                                     Зобр.1
 
 
 
