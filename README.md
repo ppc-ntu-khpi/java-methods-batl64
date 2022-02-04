@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/ppc-ntu-khpi/java-methods-batl64/master/Diagram.png)
                                                      Зобр.1
 
-Для того щоб знайти потрібний вам дільники з вашого числа вам потрібно змінити змінню num в файлі TestResult.java у папці src. Змінна яку потрібно змінити зображенна на Зобр.2.
+Для того щоб знайти потрібний вам дільники з вашого числа вам потрібно змінити змінню num на ваше число в файлі TestResult.java у папці src та натиснути кнопку Run. Змінна яку потрібно змінити зображенна на Зобр.2.
 ![](https://raw.githubusercontent.com/ppc-ntu-khpi/java-methods-batl64/master/IMG.png)
                                                      Зобр.2
 
